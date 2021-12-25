@@ -14,9 +14,11 @@ Projeyi cloneladıktan sonra Visual Studio Code programından açınız.
 Linux için:
 ```linux 
 cd kodluyoruzilkrepo 
-code .```
-
+code .
+```
 
 ## Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 
 ## License
+
